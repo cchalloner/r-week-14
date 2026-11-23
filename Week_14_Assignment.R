@@ -1,5 +1,5 @@
 # ====================================================================
-# Week 14 Formative: Optimization Problem Setup with lpSolve
+# Week 14 Assignment: Optimization Problem Setup with lpSolve
 # Student: [Your Name Here]
 #
 # Goal:
